@@ -7,12 +7,12 @@ const DEFAULTS = {
   brideParents: 'Mr. & Mrs. Tariq Mahmood', groomParents: 'Mr. & Mrs. Khalid Mehmood Kamboh',
   date: '2027-01-08T18:00', venue: 'Grand Ballroom', address: 'Mall Road, Lahore, Punjab',
   message: 'With the blessings of Allah, we joyfully invite you to celebrate the union of our children.',
-  rsvp: '923001234567', mapUrl: '', music: '',
+  rsvp: '923234485616', mapUrl: '', music: 'https://youtu.be/qSN-D7H-tBk?si=CmB1HfCNogcItVFs',
   theme: { maroon: '#6b0f1a', gold: '#c9a961', ivory: '#fbf6ea' },
   events: [
-    { name: 'Mehndi', date: '2027-01-07', time: '19:00', venue: 'Bride’s Residence, Gulberg' },
-    { name: 'Baraat', date: '2027-01-08', time: '18:00', venue: 'Groom’s Residence, DHA' },
-    { name: 'Nikah', date: '2027-01-08', time: '14:00', venue: 'Family Mosque, Lahore' },
+    { name: 'Mehndi', date: '2027-01-07', time: '19:00', venue: 'Kamboh Hall, Ichra' },
+    { name: 'Baraat', date: '2027-01-08', time: '18:00', venue: 'Brijwasi Lawn L.D.A' },
+    { name: 'Nikah', date: '2027-01-08', time: '14:00', venue: 'Badshah Masjid, Lahore' },
     { name: 'Walima', date: '2027-01-09', time: '19:00', venue: 'Grand Ballroom, Lahore' }
   ],
   photos: []
